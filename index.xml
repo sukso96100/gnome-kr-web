@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on GNOME KOREA</title>
+    <link>http://gnome.or.kr/</link>
+    <description>Recent content in HOME on GNOME KOREA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Aug 2020 22:17:43 -0700</lastBuildDate>
+    
+	<atom:link href="http://gnome.or.kr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>그놈 한국 사이트 개편 안내</title>
+      <link>http://gnome.or.kr/posts/new-gnome-kr-site/</link>
+      <pubDate>Sun, 16 Aug 2020 22:17:43 -0700</pubDate>
+      
+      <guid>http://gnome.or.kr/posts/new-gnome-kr-site/</guid>
+      <description>지금까지 구글 사이트를 통해 그놈 한국 웹사이트를 제공했는데, 이번에 새롭게 자체 홈페이지를 구축했습니다.
+이전 사이트를 계속 접속 가능합니다.
+ https://sites.google.com/site/gnomekr/home  고맙습니다.</description>
+    </item>
+    
+    <item>
+      <title>Linux Programming by example</title>
+      <link>http://gnome.or.kr/posts/archive_2001_0804_linux_programing_by_example/</link>
+      <pubDate>Sat, 04 Aug 2001 22:17:43 -0700</pubDate>
+      
+      <guid>http://gnome.or.kr/posts/archive_2001_0804_linux_programing_by_example/</guid>
+      <description>출처
+ 글쓴이 : 키눅스 (2001년 08월 04일 오후 12:57) 읽은수: 319 [ 문서 / 책소개 ] 제목 : Linux Programming by Example 저자 : Wall Kurt 출판사 : Que  제가 표지 디자인을 무척 맘에 들어하는 책입니다. 그동안 사놓고 보지 않고 있다가.. 어제부터 보기 시작했는데.. 내용이 정말 좋더군요. C 언어를 어느정도 아신다면 리눅스 프로그래밍에 대한 개념및 실전 응용을 하는데 많은도움이 될 것 같습니다.(원서지만 영어도 그리 어렵지 않게.. 쉽게 읽어갈수 있습니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/develop/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/develop/architecture/</guid>
+      <description>작성 중입니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/develop/begin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/develop/begin/</guid>
+      <description>처음 시작하시는분을 위한 가이드 #  이 페이지에서는, 그놈(GNOME) 데스크탑 환경을 기반으로 하는 소프트웨어의 개발이나, 그놈(GNOME)을 더욱 풍성하게 만들어주는 공헌을 해주실 분을 위한 기초적인 가이드라인을 제시합니다.
+그놈(GNOME) 프로그램 개발 개요 페이지를 통해, 그놈(GNOME) 데스크탑 환경을 구성하는 핵심 기술과, 내부 통신 방법, 데스크탑 편의성을 위한 기술등에 대해 학습하실 수 있습니다.
+그놈(GNOME) 데스크탑 환경에 공헌할 수 있는 방법들에 대한 요약 #  프로그래밍에 대한 지식이 필요없이, 아래와 같이 그놈(GNOME) 데스크탑 환경의 발전에 도움을 주실 수 있습니다:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/develop/i18n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/develop/i18n/</guid>
+      <description>작성 중입니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/develop/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/develop/tools/</guid>
+      <description>작성 중입니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/gnome_history/gimp_gtk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/gnome_history/gimp_gtk/</guid>
+      <description>그놈 프로젝트는 김프라는 그림 편집 및 그리기 도구 개발에서 시작한다. 아래 만화를 통해 김프 프로젝트의 시작과 김프에서 어떻게 Gtk+ 프로젝트가 시작되었는지 확인할 수 있다.
+김프(GIMP)의 탄생 #  1995년 스펜서 킴벨(Spencer Kimball)과 피터 매티스(Peter Mattis)는 UC 버클리에서 전산학을 공부하고 있었다.
+“LISP 컴파일러 과제 시작했어?”
+“컴파일러 보다 다른 것을 만들어보고 싶어.”
+“나도, 대신에 리눅스용 포토샵 같은거 만들어보면 어떨까? 포토샵은 맥하고 윈도에서만 실행되잖아.”
+“좋은 생각이다. 우리 교수님한테 한번 이야기해보자.”
+“저희가 LISP 컴파일러 프로젝트 대신에 포토샵 같은 이미지 편집 프로그램을 한번 만들어보고 싶습니다.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/gnome_history/gnome_kr_home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/gnome_history/gnome_kr_home/</guid>
+      <description>그놈 한국 홈페이지 변천사 #  2007년 2월 20일 #  https://web.archive.org/web/20070220235717/http://gnome.or.kr/
+2006년 7월 11일 #  2003년 10월 30일 #  2002년 3월 30일 #  https://web.archive.org/web/20020524140742/http://gnome.or.kr/</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/gnome_history/korea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/gnome_history/korea/</guid>
+      <description>그놈 한국이 걸어온 길 #  작성 중&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://gnome.or.kr/docs/projects/gnome-kr-l10n/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://gnome.or.kr/docs/projects/gnome-kr-l10n/</guid>
+      <description>그놈 한글화 프로젝트 #  그놈 한글화 프로젝트는 그놈 프로젝트에서 개발하는 애플리케이션을 한글화하는 프로젝트입니다. 여러분이 그놈을 기반으로한 우분투 리눅스를 설치할 때, 한글을 선택하면 모든 메뉴가 한글로 나타나는데, 이 프로젝트의 결과물입니다. 현재 프로젝트 멤버는 다음 같습니다.
+ 감독자: 류창우(Changwoo Ryu) 검토자: 조성호(Seong-ho Cho) 번역  맹진영(Jinyeong Maeng) AlexKodala 엄지용(Jeeyong Um) 문관경(Gwan-gyeong Mun) 신현수(Hyunsu Shin) 성대현(DaeHyun Sung)    아직도 한글화할 부분이 많습니다. 참여를 원하는 분은 아래 프로젝트 페이지를 방문하시기 바랍니다.</description>
+    </item>
+    
+  </channel>
+</rss>
